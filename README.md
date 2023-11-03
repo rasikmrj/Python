@@ -1,2 +1,2 @@
 # Python
-Starting
+Starting my journey to data science
